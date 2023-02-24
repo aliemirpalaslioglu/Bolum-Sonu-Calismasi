@@ -1,2 +1,2 @@
 # Bolum-Sonu-Calismasi
-patika.dev
+www.patika.dev
